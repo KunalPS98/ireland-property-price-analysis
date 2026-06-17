@@ -181,7 +181,7 @@ SELECT COUNT(*) AS total_rows FROM property_sales;
 
 ## 👤 Author
 
-**Kunal PS**
+**Kunal**
 MSc Data Analytics
 QA Engineer | Data Analytics Enthusiast
 [GitHub: KunalPS98](https://github.com/KunalPS98)
