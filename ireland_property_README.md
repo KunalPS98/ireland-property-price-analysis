@@ -30,7 +30,6 @@ ireland-property-analysis/
 | **Name** | Irish Property Price Register — Sales 2010–2026 |
 | **Source** | Property Services Regulatory Authority (PSRA) |
 | **Kaggle Link** | https://www.kaggle.com/datasets/fionnhughes/property-price-register |
-| **Original Source** | https://www.propertypriceregister.ie |
 | **Licence** | CC BY 4.0 (Open licence — free to use and redistribute) |
 | **Total Rows** | 785,993 real property sales |
 | **Date Range** | January 2010 – May 2026 |
@@ -183,6 +182,6 @@ SELECT COUNT(*) AS total_rows FROM property_sales;
 ## 👤 Author
 
 **Kunal PS**
-MSc Data Analytics — Dublin Business School (2026)
-QA Automation Engineer | Data Analytics Enthusiast
+MSc Data Analytics
+QA Engineer | Data Analytics Enthusiast
 [GitHub: KunalPS98](https://github.com/KunalPS98)
